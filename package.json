@@ -12,14 +12,15 @@
     "@dotlottie/react-player": "^1.6.19",
     "@lottiefiles/dotlottie-react": "^0.7.2",
     "framer-motion": "^11.3.2",
-    "next": "14.2.5",
-    "react": "^18",
-    "react-dom": "^18",
-    "tailwind-merge": "^2.4.0"
+    "next": "^16.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.28.5",
     "@svgr/webpack": "^8.1.0",
-    "@types/node": "^20",
+    "@types/node": "^20.19.30",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
